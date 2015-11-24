@@ -1,5 +1,58 @@
+/*** Global ****/
+* {
+  box-sizing: border-box;
+}
+
+/*** Typography ***/
 font-family: { 'Quattrocento Sans', sans-serif; }
 
 body {
-background-image: url(../img/shattered_@2X.png);
+background-image: url(../img/greyfloral_@2X.png);
 }
+
+
+
+/*** Navigation ***/
+nav {
+    padding: 2px;
+    text-align: center;
+}
+
+
+li {
+    padding: 10px;
+    display: inline-block;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    margin: 0 12px;
+}
+/* Link& Visited State */
+a:link,
+a:visited {
+  border-left: 8px solid none;
+  color: #B385DA;
+  display: block;
+  height: 32px;
+  line-height: 32px;
+  margin-bottom: 10px;
+  text-align: center;
+  text-decoration: none;
+  /* vertical-align: center; */
+  width:80px;
+  transition: background .25s, margin-left 2s;
+}
+
+/* Hover */
+a:hover {
+  background: lightgrey;
+  border-left: 8px solid none;
+  color: #B385DA;  
+  margin-left: 32px;
+transition: background .5s, margin-left .5s;
+}
+
+/*** Typography ***/
+<link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
