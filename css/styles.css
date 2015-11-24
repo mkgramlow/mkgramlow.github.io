@@ -10,6 +10,13 @@ body {
 background-image: url(../img/greyfloral_@2X.png);
 }
 
+body {
+text-align: center
+}
+
+p {
+20px;
+}
 
 
 /*** Navigation ***/
