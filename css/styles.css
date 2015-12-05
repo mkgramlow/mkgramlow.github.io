@@ -125,14 +125,20 @@ transition: background .5s, margin-left .5s;
 	/* Clearfix
 	================================ */
 
-	.grid-container:after,
+	/*.grid-container:after,
 	.group:after {
 	  content: " ";
 	  display: table;
 	  clear: both;
 	}
+*/
 
 
+/*IMAGES*/
+img {
+  transform: scale(.20)
+      
+}
 
 /* Headings */
 
