@@ -4,4 +4,4 @@ my AWESOME WEBSITE!
 
 /*******************CITATIONS******************/
 
-/* http://codepen.io/dudleystorey/pen/vEKLeX?editors=110 */
+Dudley Storey >> http://codepen.io/dudleystorey/pen/vEKLeX?editors=110 
