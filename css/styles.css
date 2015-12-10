@@ -134,8 +134,8 @@ font-family: 'Merriweather Sans', sans-serif;
 
 
 /*IMAGES*/
-img {
-  transform: scale(.75)
+#commit {
+  transform: scale(.7)
             
 }
 
@@ -159,7 +159,9 @@ font-family: 'Merriweather Sans', sans-serif;
 
 
 
-
+#volunteer {
+    display: block;
+}
 
 
 body {
@@ -184,9 +186,6 @@ footer p {
 
 
 /*Portfolio*/
-
-
-
 
 /*Contact me*/
 input[type="submit"],
