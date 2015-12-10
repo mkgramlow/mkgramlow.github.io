@@ -135,13 +135,11 @@ font-family: 'Merriweather Sans', sans-serif;
 
 /*IMAGES*/
 img {
-  transform: scale(.20)
+  transform: scale(.75)
             
 }
 
-#commit {
-    transform: scale(.75)
-}
+
 
 /* Headings */
 
@@ -156,6 +154,7 @@ font-family: 'Merriweather Sans', sans-serif;
 
  p {
     font-family: 'Merriweather Sans', sans-serif;
+     text-align: center;
 } 
 
 
@@ -163,9 +162,9 @@ font-family: 'Merriweather Sans', sans-serif;
 
 
 
-/**body {
-	color: #333;
-	font-size: 120%;
+body {
+	color: #615F5F;
+	
 }
 
 p {
@@ -179,7 +178,7 @@ header img {
 footer p {
 	font-size: .75em;
 }
-**/
+
 
 
 
