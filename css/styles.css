@@ -163,7 +163,7 @@ h2 {
 
  p {
     font-family: 'Merriweather Sans', sans-serif;
-     text-align: center;
+    
 } 
 
 
@@ -182,6 +182,10 @@ p {
  	line-height: 24px;
 }
 
+.bio {
+    background: green;
+}
+
 header img {
 	width: 128px;
 }
@@ -191,7 +195,7 @@ footer p {
 }
 
 
-.bio {
+/* might use    .bio {
     color: black;
     font-family: 'Merriweather Sans', sans-serif;
     float: right;
@@ -199,7 +203,7 @@ footer p {
     margin-top: -20px;
     font-size: 120%;
     line-height: 1.5em;
-}
+}*/
 
 
 /*Portfolio*/
