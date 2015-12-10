@@ -136,7 +136,11 @@ font-family: 'Merriweather Sans', sans-serif;
 /*IMAGES*/
 img {
   transform: scale(.20)
-      
+            
+}
+
+#commit {
+    transform: scale(.75)
 }
 
 /* Headings */
@@ -182,28 +186,7 @@ footer p {
 
 /*Portfolio*/
 
-/* Included CSS
-  * Including TreeHouse Grid System 
-  * URL: 
-Inheriting Ben Schwarz's CSS Gallery */
 
-/* Customize the dimensions of your gallery & thumbnails */
-/* Override Inherited Size from Grid System  */
-
-.gallery {
-  height: 500px;
-}
-.item {
-  text-align: center;
-}
-
-.item img {
-  width: 400px;  
-}
-
-.controls img {
-  width: 50px;
-}
 
 
 /*Contact me*/
