@@ -61,7 +61,7 @@ transition: background .5s, margin-left .5s;
 }
 
 /*** Typography ***/
-font-family: 'Merriweather Sans', sans-serif;
+body {font-family: 'Merriweather Sans', sans-serif;}
 
 
 /*** Grid ***/
