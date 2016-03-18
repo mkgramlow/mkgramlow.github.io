@@ -71,6 +71,7 @@ transition: background .5s, margin-left .5s;
 
 
 
+
 /*** Grid ***/
 
 .grid-container > [class^="grid-"] {
@@ -523,7 +524,7 @@ footer{
    #commit {
   transform: scale(.7);
     position: relative;
-    bottom: 120px;
+    bottom: 220px;
         
 }
     
@@ -534,7 +535,7 @@ footer{
     #commit {
   transform: scale(.5);
     position: relative;
-    bottom: 120px;
+   bottom: 220px;
         
 }
     
@@ -545,10 +546,14 @@ footer{
         font-weight: 300; 
         height: auto;
     }
+    
+    .mariska {
+    font-size: 1em
+    }
 #commit {
-  transform: scale(.5);
+  transform: scale(.25);
     position: relative;
-    bottom: 80px;
+   bottom: 220px;
         
 }}
 
