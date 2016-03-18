@@ -144,7 +144,10 @@ body {font-family: 'Merriweather Sans', sans-serif;}
     all: default;
 }
 body {
-background-image: url(../img/concrete_seamless.png);
+/*background-image: url(../img/concrete_seamless.png);*/
+
+/*background-image: url(../img/concrete_seamless.png);*/
+     background-image: url(http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/45degreee_fabric.png);
 }
 
 /* Headings */
