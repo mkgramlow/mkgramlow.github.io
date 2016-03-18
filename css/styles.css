@@ -512,6 +512,24 @@ footer{
 }
 /******************Media Q************************/
 
+@media (max-width: 2000px) {
+    .nav {
+        font-size: 2em; 
+    }
+    
+    h1 {
+        height: 2em; 
+        font-size: 8em; 
+    }
+   #commit {
+  transform: scale(.7);
+    position: relative;
+    bottom: 220px;
+        
+}
+    
+}
+
 @media (max-width: 1151px) {
     .nav {
         font-size: 2em; 
@@ -551,9 +569,9 @@ footer{
     font-size: 1em
     }
 #commit {
-  transform: scale(.25);
+  transform: scale(.5);
     position: relative;
-   bottom: 180px;
+   bottom: 140px;
         
 }}
 
