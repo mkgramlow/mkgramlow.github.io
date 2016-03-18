@@ -61,11 +61,12 @@ transition: background .5s, margin-left .5s;
 }
 
 /*** Typography ***/
-body {font-family: 'Merriweather Sans', sans-serif;}
+
 
 .mariska {
    color: #615F5F;
     font-family: 'Raleway', sans-serif;
+    font-size: 2.25em;
 }
 
 
