@@ -35,6 +35,18 @@ a{
     color: black;
     margin: 0 12px;
 }
+
+/*javascript*/
+
+.mariska span:nth-child(even) {
+
+  display: inline-block;
+  font-size: 1em;
+  margin: .2em;
+  transform: rotate(10deg);
+}
+
+
 /* Link& Visited State */
 a:link,
 a:visited {
