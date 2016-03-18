@@ -63,6 +63,12 @@ transition: background .5s, margin-left .5s;
 /*** Typography ***/
 body {font-family: 'Merriweather Sans', sans-serif;}
 
+.mariska {
+   color: #615F5F;
+    font-family: 'Raleway', sans-serif;
+}
+
+
 
 /*** Grid ***/
 
@@ -134,8 +140,10 @@ body {font-family: 'Merriweather Sans', sans-serif;}
 
 /*IMAGES*/
 #commit {
-  transform: scale(.7)
-            
+  transform: scale(.7);
+    position: relative;
+    bottom: 120px;
+        
 }
 
 
@@ -511,13 +519,23 @@ footer{
         height: 2em; 
         font-size: 8em; 
     }
-   
+   #commit {
+  transform: scale(.7);
+    position: relative;
+    bottom: 120px;
+        
+}
     
 }
 
 @media (max-width: 991px) {
    
-    
+    #commit {
+  transform: scale(.5);
+    position: relative;
+    bottom: 120px;
+        
+}
     
 }
 @media (max-width: 725px) {
@@ -526,4 +544,10 @@ footer{
         font-weight: 300; 
         height: auto;
     }
+#commit {
+  transform: scale(.5);
+    position: relative;
+    bottom: 120px;
+        
+}}
 
