@@ -303,6 +303,7 @@ div#o-gallery figure:nth-child(2):hover, div#o-gallery figure:nth-child(3):hover
 
 /******************Contact me************************/
 
+
 body{
   overflow-y: scroll;
   }
@@ -501,6 +502,28 @@ footer{
 }
 /******************Media Q************************/
 
-@media screen and (min-width:481px) {}
+@media (max-width: 1151px) {
+    .nav {
+        font-size: 2em; 
+    }
+    
+    h1 {
+        height: 2em; 
+        font-size: 8em; 
+    }
+   
+    
+}
 
-@media screen and (min-width: 1000px) {}
+@media (max-width: 991px) {
+   
+    
+    
+}
+@media (max-width: 725px) {
+    .nav {
+        font-size: 2em; 
+        font-weight: 300; 
+        height: auto;
+    }
+
